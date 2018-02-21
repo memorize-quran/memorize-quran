@@ -1,4 +1,4 @@
-## Welcome to Memorize Quran Terms of User
+## Welcome to Memorize Quran Terms of Use
 
 Last updated: (21 Feb 2018)
 
