@@ -17,7 +17,7 @@ Whenever we make changes to these Terms, the changes are effective immediately a
 If you continue to use the Service after the revised Terms go into effect, then you have accepted the changes to these Terms.
 
 ### Privacy Policy
-For information about how we collect and use information about users of the Service, please check out our privacy policy available at https://quran-memorizer.github.io/
+For information about how we collect and use information about users of the Service, please check out our privacy policy available at <a href="https://quran-memorizer.github.io">here.</a>
 
 ### Third-Party Services
 From time to time, we may provide you with links to third party websites or services that we do not own or control. Your use of the Service may also include the use of applications that are developed or owned by a third party. Your use of such third party applications, websites, and services is governed by that party's own terms of service or privacy policies. We encourage you to read the terms and conditions and privacy policy of any third party application, website or service that you visit or use.
